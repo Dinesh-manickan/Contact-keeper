@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb+srv://dinesh:Nf5czCi5nBT1yV4t@contactkeeper.rj8kscl.mongodb.net/your-database-name?retryWrites=true&w=majority",
+    "jwtSecret" : "secret"
+}
